@@ -1,4 +1,2 @@
-session_start ();
+<?php
 echo 'Hello,world!'
->>>>>>> test
-Hello git!
